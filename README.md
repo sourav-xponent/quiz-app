@@ -26,7 +26,7 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone git@github.com:your-org/your-repo.git
+   git clone https://github.com/sourav-xponent/quiz-app.git
    cd your-repo
    ```
 
